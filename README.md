@@ -242,7 +242,7 @@ If you use RSCS-Q in your research, please cite:
 
 ```bibtex
 @techreport{rscsq2025,
-    author      = {{Entropica Research Collective}},
+    author      = {{T.Stanford Erickson}},
     title       = {{RSCS-Q}: Reflex-Symbolic Cognitive System with Quorum Governance},
     institution = {Entropica},
     year        = {2025},
