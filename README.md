@@ -1,4 +1,4 @@
-# RSCS-Q: Reflex-Symbolic Cognitive System with Quorum Governance
+# RSCS-Q: Reflex-Symbolic Cognitive System with Quorum Governance- A Multi-Layer Governance Stack for Autonomous Cognitive Systems
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![LaTeX](https://img.shields.io/badge/LaTeX-2e-blue.svg)](https://www.latex-project.org/)
