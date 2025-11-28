@@ -272,7 +272,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📧 Contact
 
-- **Email**: research@entropica.org
+- **Email**: toryerickson@gmail.com
 - **GitHub**: [github.com/entropica/rscsq](https://github.com/entropica/rscsq)
 
 ---
