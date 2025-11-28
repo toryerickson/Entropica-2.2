@@ -14,8 +14,8 @@ The RSCS-Q framework is documented across six booklets plus a capstone integrati
 
 | Booklet | Title | Description | PDF |
 |---------|-------|-------------|-----|
-| **B1** | [Symbolic Metrics](tex/booklet1.tex) | Foundation layer: EDR, SOC, VSI, Φ metrics | [📄](pdf/booklet1.pdf) |
-| **B2** | [Capsule Governance](tex/booklet2.tex) | Memory & lifecycle: RCI, PSR, SHY with capsule state machine | [📄](pdf/booklet2.pdf) |
+| **B1** | [Symbolic Metrics](tex/booklet1.tex) | Foundation layer: EDR, SOC, VSI, Φ metrics | [📄]( booklet1.pdf) |
+| **B2** | [Capsule Governance](tex/booklet2.tex) | Memory & lifecycle: RCI, PSR, SHY with capsule state machine | [📄](booklet2.pdf) |
 | **B3** | [Reflex Symbol Grammar](tex/booklet3.tex) | RSG state machine (S0-Q4) & RCC v1.1 audit chain | [📄](pdf/booklet3.pdf) |
 | **B4** | [Swarm Coherence & RA](tex/booklet4.tex) | Multi-agent consensus: κ_t, S_fork, RA protocol | [📄](pdf/booklet4.pdf) |
 | **B5** | [ADM Interface](tex/booklet5.tex) | Operator console: Mission DSL, guardrails, overrides | [📄](pdf/booklet5.pdf) |
